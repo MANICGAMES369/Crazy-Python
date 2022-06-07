@@ -4,7 +4,6 @@
 
 import os
 import hashlib
-from pickle import FALSE
 
 l_db=[] #file list
 hash_db=[]
